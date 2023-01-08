@@ -18,6 +18,6 @@
 
 <details><summary>📈 Activity Graph</summary>
   <p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=oreqr&theme=minimal" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OreQr&theme=github-compact" />
   </p>
 </details>
