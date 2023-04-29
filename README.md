@@ -1,7 +1,6 @@
 <b>Hi there 👋</b>, I'm full-stack developer from Poland
 - 📫 How to reach me **contact@oreq.xyz**
 - 🧱 Things I'm working on
-  - [NFTboard.fun](https://nftboard.fun)
   - [Hostyard.eu](https://hostyard.eu/)
 
 <b>Things I code with</b>
