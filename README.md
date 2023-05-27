@@ -17,6 +17,6 @@
 
 <details><summary>📈 Activity Graph</summary>
   <p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OreQr&theme=github-compact" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OreQr&theme=github-compact" />
   </p>
 </details>
