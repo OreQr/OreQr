@@ -1,5 +1,5 @@
 <b>Hi there 👋</b>, I'm full-stack developer from Poland
-- 📫 How to reach me **contact@oreq.xyz**
+- 📫 How to reach me **oreqr@hostyard.eu**
 - 🧱 Things I'm working on
   - [Hostyard.eu](https://hostyard.eu/)
 
