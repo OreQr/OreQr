@@ -32,7 +32,7 @@ Query game servers for information about players, rules, and more!
 <tr>
 <td width="600px">
 
-## <img src="https://flagcdn.com/20x15/pl.png" alt="Poland"> LVL UP Archive
+## <img src="https://flagcdn.com/60x45/pl.png" width="20px" height="15px" alt="Poland"> LVL UP Archive
 
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
