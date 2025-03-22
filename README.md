@@ -20,7 +20,6 @@ Real-time voting app
 ## Query Game Server
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 Query game servers for information about players, rules, and more!
 
