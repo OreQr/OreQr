@@ -73,6 +73,7 @@ Archiwum oficjalnego forum lvlup.pro
 <summary>📊 Metrics <a href="https://github.com/OreQr/OreQr/actions/workflows/main.yml"><img src="https://github.com/OreQr/OreQr/actions/workflows/main.yml/badge.svg" align="right" alt="Metrics"></a></summary>
 
 <p align="center">
+<br>
 <img src="/github-metrics.svg" alt="Metrics">
 <br>
 <a href="https://wakatime.com/@69c04cfc-9b8a-461b-94ac-2a2f88e61804"><img src="https://wakatime.com/badge/user/69c04cfc-9b8a-461b-94ac-2a2f88e61804.svg" /></a>
