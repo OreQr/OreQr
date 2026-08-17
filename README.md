@@ -65,18 +65,3 @@ Archiwum oficjalnego forum lvlup.pro
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
-
-<hr>
-
-<details>
-  
-<summary>📊 Metrics <a href="https://github.com/OreQr/OreQr/actions/workflows/main.yml"><img src="https://github.com/OreQr/OreQr/actions/workflows/main.yml/badge.svg" align="right" alt="Metrics"></a></summary>
-
-<p align="center">
-<br>
-<img src="/github-metrics.svg" alt="Metrics">
-<br>
-<a href="https://wakatime.com/@69c04cfc-9b8a-461b-94ac-2a2f88e61804"><img src="https://wakatime.com/badge/user/69c04cfc-9b8a-461b-94ac-2a2f88e61804.svg" /></a>
-</p>
-
-</details>
